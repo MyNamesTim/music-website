@@ -1,0 +1,29 @@
+.navbar {
+    opacity: 0;
+    background-color: #564D8C;
+}
+
+.navbar a {
+    color: #C291F2;
+    font-size: 20px;
+}
+
+.navbar a:hover {
+    color: #8273d3;
+}
+
+h2 {
+    color: white;
+}
+
+.carousel-item {
+    display: inline-block;
+}
+
+.carousel-item img {
+    object-fit: cover;
+}
+
+.padding {
+    margin-top: 7.5em;
+}
